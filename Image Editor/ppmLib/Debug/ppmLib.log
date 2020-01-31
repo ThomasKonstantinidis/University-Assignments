@@ -1,0 +1,3 @@
+﻿  ppm.cpp
+c:\users\user\desktop\p3160074_newwwwwwwwwww\ppmlib\ppm.cpp(22): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  ppmLib.vcxproj -> C:\Users\User\Desktop\p3160074_newwwwwwwwwww\ppm\ppm_d.lib

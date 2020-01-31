@@ -1,0 +1,76 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Filter.cpp
+Filter.cpp(45): warning C4018: '<': signed/unsigned mismatch
+Filter.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(36): warning C4018: '<': signed/unsigned mismatch
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(23): note: while compiling class template member function 'void math::Array2D<image::Color>::setData(const T *const &)'
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(59): note: see reference to function template instantiation 'void math::Array2D<image::Color>::setData(const T *const &)' being compiled
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(5): note: while compiling class template member function 'const unsigned int math::Array2D<image::Color>::getWidth(void) const'
+  Filter.cpp(45): note: see reference to function template instantiation 'const unsigned int math::Array2D<image::Color>::getWidth(void) const' being compiled
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\image.h(13): note: see reference to class template instantiation 'math::Array2D<image::Color>' being compiled
+  image.cpp
+image.cpp(32): warning C4018: '<': signed/unsigned mismatch
+image.cpp(38): warning C4101: 'error': unreferenced local variable
+image.cpp(55): warning C4018: '<': signed/unsigned mismatch
+image.cpp(65): warning C4101: 'error': unreferenced local variable
+c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(36): warning C4018: '<': signed/unsigned mismatch
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(23): note: while compiling class template member function 'void math::Array2D<image::Color>::setData(const T *const &)'
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(59): note: see reference to function template instantiation 'void math::Array2D<image::Color>::setData(const T *const &)' being compiled
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(54): note: while compiling class template member function 'math::Array2D<image::Color>::Array2D(unsigned int,unsigned int,const T *)'
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\image.h(15): note: see reference to function template instantiation 'math::Array2D<image::Color>::Array2D(unsigned int,unsigned int,const T *)' being compiled
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\image.h(13): note: see reference to class template instantiation 'math::Array2D<image::Color>' being compiled
+  main.cpp
+main.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(53): warning C4101: 'f': unreferenced local variable
+c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(36): warning C4018: '<': signed/unsigned mismatch
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(23): note: while compiling class template member function 'void math::Array2D<image::Color>::setData(const T *const &)'
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(59): note: see reference to function template instantiation 'void math::Array2D<image::Color>::setData(const T *const &)' being compiled
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\array2d.hpp(54): note: while compiling class template member function 'math::Array2D<image::Color>::Array2D(unsigned int,unsigned int,const T *)'
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\image.h(15): note: see reference to function template instantiation 'math::Array2D<image::Color>::Array2D(unsigned int,unsigned int,const T *)' being compiled
+          with
+          [
+              T=image::Color
+          ]
+  c:\users\user\desktop\p3160074_newwwwwwwwwww\p3160074\image.h(13): note: see reference to class template instantiation 'math::Array2D<image::Color>' being compiled
+  Generating code
+  All 364 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  p3160074.vcxproj -> C:\Users\User\Desktop\p3160074_newwwwwwwwwww\p3160074\.\filter.exe
