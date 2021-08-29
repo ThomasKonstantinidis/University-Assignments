@@ -1,3 +1,3 @@
-# ALU
+# PROCESSOR
 
-![](ALU.png)
+![](processor.png)
