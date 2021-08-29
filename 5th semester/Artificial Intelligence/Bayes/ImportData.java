@@ -8,8 +8,8 @@ import static java.lang.Integer.parseInt;
 public class ImportData {
     public static void main(String[] args) {
         String dir = "//aclImdb";
-        File file = new File(/*"C:\\Users\\User\\Desktop\\ΕΡΓΑΣΙΑ 2\\βαση δεδομενων\\aclImdb"*/dir);
-        ImportData.Loadataset(file, 1000, 500);//paralipei tis n prvtes lekseis toy vocab
+        File file = new File(/******/dir);
+        ImportData.Loadataset(file, 1000, 500);
 
 
         Bayes b = new Bayes();
