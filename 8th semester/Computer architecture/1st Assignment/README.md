@@ -1,3 +1,3 @@
 # ALU
 
-![](ALU.PNG)
+![](ALU.png)
