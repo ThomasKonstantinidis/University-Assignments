@@ -2,7 +2,7 @@ ID3:
 
 1)Program Arguments in this order: 
 	
-	i) Path of entire acllmdb folder.
+	i) Path of entire (data) (acllmdb) folder.
 	ii) m parameter 
 	iii) n parameter
 	
