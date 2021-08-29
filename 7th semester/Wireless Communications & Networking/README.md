@@ -38,6 +38,6 @@ clients σε κάποιο συγκεκριμένο Port (πχ. 80) και εγκ
 
 
 # Final connection
-![](final.png)
+![](final.jpg)
 
 ****
