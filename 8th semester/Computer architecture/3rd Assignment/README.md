@@ -1,3 +1,3 @@
 # PROCESSOR
 
-![](processor.png)
+![](Processor.png)
