@@ -37,8 +37,7 @@ clients σε κάποιο συγκεκριμένο Port (πχ. 80) και εγκ
 ![](table.png)
 
 
-# Ολοκληρωμένη σύνδεση των 2 ESP και οθόνης
-
+# Final connection
 ![](final.png)
 
 ****
