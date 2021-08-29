@@ -1,3 +1,3 @@
-# ALU
+# ALUCONTROL
 
-![](ALU.png)
+![](AluControl.png)
