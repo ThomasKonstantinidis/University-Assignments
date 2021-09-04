@@ -1,6 +1,7 @@
 # Communication via MQTT
 
 <ins>Στόχος:</ins>
+
 I. Επικοινωνία μέσω του MQTT protocol, με Wi-Fi και 4G
 
 II. Αποστολή μηνυμάτων κατόπιν αιτήματος
