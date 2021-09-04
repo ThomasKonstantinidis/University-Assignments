@@ -21,6 +21,6 @@
 ![](trainID3.png)
 ![](f1.png)
 
-- Τable of percentages
+- Τable of accurancy percentages, depending on the use of vocabulary
 
 ![](table.png)
