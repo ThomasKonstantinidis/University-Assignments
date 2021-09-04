@@ -7,7 +7,7 @@
 ![](train.png)
 ![](trainC.png)
 
-- Test data για λέξεις από 500 έως 1000 του vocab
+- Test data για λέξεις από 500 έως 1000 του vocabulary
 
 ![](test.png)
 ![](testC.png)
