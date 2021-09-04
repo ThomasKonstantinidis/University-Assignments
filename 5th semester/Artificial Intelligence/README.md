@@ -2,7 +2,7 @@
 
 <ins>Παρακάτω παραθέτονται οι πίνακες για τα train και test accurancies:</ins>
 
-- Train data για λέξεις από 500 έως 1000 του vocab
+- Train data για λέξεις από 500 έως 1000 του vocabulary 
 
 ![](train.png)
 ![](trainC.png)
