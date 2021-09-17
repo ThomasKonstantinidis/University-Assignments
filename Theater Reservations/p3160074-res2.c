@@ -55,7 +55,7 @@ void* Pelatis(void* x){
 		}
 	}
 	
-	clock_gettime(CLOCK_REALTIME, &stop); //xronos anamonis
+	clock_gettime(CLOCK_REALTIME, &stop); //waiting time
 	if( clock_gettime( CLOCK_REALTIME, &stop) == -1 ) {
 		printf("ERROR: clock gettime = -1");
 		exit(-1);
